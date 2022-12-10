@@ -1,0 +1,36 @@
+<form>
+  <table>
+  <tr>
+<th>Firstname</th>
+</tr>
+</table>  
+<input type="text" placeholder="Sunan_ka" name="uname" required">
+<table>
+<tr>
+<th>Lastname</th>
+</tr>
+</table>
+<input type="text" placeholder="Sunan_Mahaifi" name="uname" required">
+
+  <table>
+  <tr>
+<th>email</th>
+</tr>
+</table>
+<input type="text" placeholder="email" name="email" required">
+<table>
+  <tr>
+<th>Number sirri</th>
+</tr>
+</table>
+<input type="password" placeholder="Number_sirri" name="password" required">
+<input type="radio" name="gender" value="Namiji" checked>Mazaje<br>
+<input type="radio" name="gender" value="Mace"> Mace<br>
+ <input type="radio" name="gender" value="Mata_Maza"> Mata Maza
+ <input type="checkbox" name="vehicle1" value="Amincewa">Ka amince damu<br>
+ <button type="submit"> login</button>
+ <input type="checkbox" name="vehicle1" value="Remember">Remember </div>
+<button type="button" class="cancelbuton">cancel
+</button>
+<Forgot cahref="#">
+</form></body></html>
